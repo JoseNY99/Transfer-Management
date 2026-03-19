@@ -90,4 +90,11 @@ docker exec -it payments-postgres psql -U postgres -d paymentsdb -c "select * fr
 Este comando muestra como ingresan las consultas a la Base de datos
 
 ---
-Desarrollado por Jose Carlos Narvaez Yubero
+## Autor
+
+Desarrollado por **Jose Carlos Narváez Yubero**
+
+Backend Developer
+
+GitHub: https://github.com/JoseNY99
+GitHub: https://linkedin.com/in/jose-narvaez-360989228
