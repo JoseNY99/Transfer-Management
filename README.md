@@ -89,5 +89,5 @@ docker exec -it payments-postgres psql -U postgres -d paymentsdb -c "select * fr
 
 Este comando muestra como ingresan las consultas a la Base de datos
 
-
-```bash
+---
+Desarrollado por Jose Carlos Narvaez Yubero
