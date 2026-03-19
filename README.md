@@ -56,7 +56,6 @@ ya estoy pasandole un script para que cree todo la tabla cuando se inicia el con
 
 
 git clone <URL_DEL_REPOSITORIO>
-cd backend-senior-payments
 
 
 ### 2. levantar los servicios
