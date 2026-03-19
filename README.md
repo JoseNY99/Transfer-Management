@@ -45,7 +45,7 @@ ya estoy pasandole un script para que cree todo la tabla cuando se inicia el con
 
 ## Requisitos previos
 
-- Docker Desktop
+- Docker Desktop (Importante que este en running para hacer las pruebas)
 - .NET 8 SDK (opcional si se ejecuta todo por Docker)
 
 ---
