@@ -96,5 +96,6 @@ Desarrollado por **Jose Carlos Narváez Yubero**
 
 Backend Developer
 
-GitHub: https://github.com/JoseNY99
-GitHub: https://linkedin.com/in/jose-narvaez-360989228
+- GitHub: https://github.com/JoseNY99
+
+- LinkedIn: https://linkedin.com/in/jose-narvaez-360989228
