@@ -1,7 +1,6 @@
 # Transfer Management technical test
 
-Prueba Tecnica
-Solución backend para la gestión de pagos con evaluación de riesgo asíncrona utilizando .NET 8, PostgreSQL, Kafka y Docker.
+Este proyecto corresponde a una prueba técnica que implementa una solución backend para la gestión de pagos, incorporando un sistema de evaluación de riesgo asíncrona. La solución fue desarrollada utilizando .NET 8, PostgreSQL, Kafka y Docker.
 
 ## Arquitectura
 
