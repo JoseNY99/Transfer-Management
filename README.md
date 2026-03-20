@@ -1,5 +1,6 @@
-# Transfer Management 
+# Transfer Management technical test
 
+Prueba Tecnica
 Solución backend para la gestión de pagos con evaluación de riesgo asíncrona utilizando .NET 8, PostgreSQL, Kafka y Docker.
 
 ## Arquitectura
@@ -85,7 +86,7 @@ y para el Get /api/payments/{externalOperationId}
 }
 
 ### 6. Luego si se necesita verificar la base de datos desde la raiz se ejecuta el siguiente comando  
-docker exec -it payments-postgres psql -U postgres -d paymentsdb -c "select * from payments order by created_at desc;"
+docker exec -it <contenedor> psql -U postgres -d paymentsdb -c "select * from payments order by created_at desc;"
 
 Este comando muestra como ingresan las consultas a la Base de datos
 
